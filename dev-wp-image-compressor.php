@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Image Compressor
-Description: A plugin to compress JPEG images on upload and retrospectively based on specified settings.
+Plugin Name: Dev-WP Image Compressor
+Description: A plugin by Dev-WP to compress JPEG images on upload, and retrospectively, based on the plugin settings.
 Version: 1.1
-Author: Your Name
+Author: Rob @ Dev-WP - Wordpress Development Specialists
 */
 
 // Hook for adding admin menus
